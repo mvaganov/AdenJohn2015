@@ -1,0 +1,34 @@
+AdenJohn2015
+FPS
+	900 multiple guns
+		899 pistol
+		pistol akimbo
+		p90
+		897 uzi
+		uzi akimbo
+		896 shot gun
+		shot gun akimbo
+		rocket launcher
+		898 portal gun
+		huge laser gun --stupidly huge
+		200 3d models for guns
+	600 castle theme (stone bricks, stone tiled floor, stone ceiling)
+	500 maze
+		499 open areas for fire fights
+		498 doors (wood doors)
+			497 must defeat enemies in maze section to move on
+	1000 bad guys
+		999 killable
+		??? respawning enemies
+		998 moving around on their own
+			980 moving randomly
+			970 move toward the player
+			990 shoot at the player
+		400 different colors for different enemies
+		300 models for enemies: simple looking people (big round heads, tiny bodies)
+		100 harder ones will have more equipment on
+			helmet
+			shoulder pads
+			boots
+			gun (from the guns list above)
+		
