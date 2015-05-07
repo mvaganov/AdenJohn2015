@@ -7,7 +7,7 @@ public class PlaySound : MonoBehaviour {
 
 	[System.Serializable]
 	public class Settings {
-		[Tooltip("Will play when this button is pressed. Example: \"Fire1\", \"Fire2\", \"Jump\"")]
+		[Tooltip("Will play when this button is pressed. Example: \"Fire1\", \"Fire2\", \"Jump\". If empty, sound will play on Start().")]
 		public string buttonPress;
 
 		[Tooltip("If marked true, multiple sounds will be able to play at once")]
